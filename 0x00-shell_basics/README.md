@@ -1,0 +1,16 @@
+TASKS TO DO
+-0 current working directory
+-1 list it
+-2 bring me home
+-3 list files
+-4 list more files
+-5 list files digit only
+-6 first directory
+-7 move that file
+-8 first delete
+-9 first dir deletion
+-10 back
+-11 list
+-12 file type
+-13 symbolic link
+-14 copy html
